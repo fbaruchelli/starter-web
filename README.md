@@ -17,3 +17,7 @@ This repository is for showing how Git and GitHub work
 add
 
 not added
+
+## Copyright
+
+copy
